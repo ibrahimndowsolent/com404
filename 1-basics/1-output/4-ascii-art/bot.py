@@ -1,0 +1,12 @@
+# Display Robot
+print("###########")
+print("#")      ("#")
+print("#")      ("#")
+print("###########")
+print("#")      ("#")
+print("#")      ("#")
+print("###########")
+print("#")      ("#")
+print("#")      ("#")
+print("#")      ("#")
+print("#")      ("#")
